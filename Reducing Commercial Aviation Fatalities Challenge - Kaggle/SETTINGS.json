@@ -1,0 +1,9 @@
+{
+"TRAIN_DATA_CLEAN_PATH":"./data/train.csv",
+"TEST_DATA_CLEAN_PATH": "./data/test.csv",
+"MODEL_PATH": "./models/",
+"MODEL_FILE": "Yael_Boris_model.sav",
+"SUBMISSION_DIR": "./submissions/",
+"SUBMISSION_FILE": "LGB_goss_100_001_Yael_Boris.csv",
+"SUBMISSION_FILE_ZIP": "LGB_goss_100_001_Yael_Boris.zip"
+}
