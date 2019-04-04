@@ -2,7 +2,7 @@
 Hello!
 
 Below you can find a outline of how to reproduce our solution for the reducing-commercial-aviation-fatalities competition.
-If you run into any trouble with the setup/code or have any questions please contact us at  Lustigy #@# post.bgu.ac.il  or Borismos #@# post.bgu.ac.il
+If you run into any trouble with the setup/code or have any questions please contact us at  Lustigy #@# post #.bgu#.ac#.il  or Borismos #@# post #.bgu#.ac#.il
 
 # ARCHIVE CONTENTS
 README.md  : this readme file
